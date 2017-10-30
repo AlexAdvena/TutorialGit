@@ -7,6 +7,7 @@ public class newClassAva {
 System.out.print("Hello everyone");
 //Comment 4
 //Comment 5
+		//Change from cloud
 	}
 
 }
