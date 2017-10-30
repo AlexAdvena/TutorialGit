@@ -6,6 +6,7 @@ public class newClassAva {
 		// TODO Auto-generated method stub
 System.out.print("Hello everyone");
 //Comment 4
+//Comment 5
 	}
 
 }
